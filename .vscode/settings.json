@@ -1,0 +1,4 @@
+{
+    "appcenter.demoAppGitRepo": "git@github.com:mark-smithtb/cr2018.git",
+    "appcenter.api.configurebranchandstartnewbuild": true
+}
